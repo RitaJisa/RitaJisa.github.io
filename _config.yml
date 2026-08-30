@@ -17,9 +17,7 @@ url                      : "https://RitaJisa.github.io"
 baseurl                  : ""
 repository               : "RitaJisa/RitaJisa.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  # Biographic information
   avatar           : "profile.JPG"
   name             : "Rita M. Jiménez Sánchez"
   pronouns         : "she/her/ella"
@@ -28,8 +26,8 @@ author:
   employer         : "External Research Collaborator, UCSB Labor Center"
   uri              : "https://RitaJisa.github.io"
   email            : "rita.interculturales@gmail.com"
-  googlescholar    : "JilmbqsAAAAJ"
-  orcid            : "0009-0008-1454-8217"
+  googlescholar    : "https://scholar.google.com/citations?user=JilmbqsAAAAJ&hl=es"
+  orcid            : "https://orcid.org/0009-0008-1454-8217"
 
 # Social media
   artstation       : # Username
