@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Dra. Rita Margarita Jiménez Sánchez
-===
-**Investigadora y Consultora Especializada en Antropología Política, Estudios Rurales, Género y Derechos Humanos**
+<h1 style="color: #181198; margin-bottom: 5px;">Dra. Rita Margarita Jiménez Sánchez</h1>
+<p style="font-weight: bold; font-size: 1.1em; color: #444;">Investigadora y Consultora Especializada en Antropología Política, Estudios Rurales, Género y Derechos Humanos</p>
 
-[English Version Below / Versión en Inglés más abajo]
+<p><a href="#english-version" style="color: #981191;">[English Version Below / Versión en Inglés más abajo]</a></p>
 
 ---
 
-### Biografía Profesional
+<h2 style="color: #181198;">Biografía Profesional</h2>
 
 Doctora y Maestra en Ciencias Sociales con especialidad en Estudios Rurales por **El Colegio de Michoacán (COLMICH)** y Licenciada en Desarrollo y Gestión Interculturales por la **UNAM**. 
 
@@ -26,7 +25,7 @@ Su rigor académico fue reconocido en 2022 con el **Premio Arturo Warman** a la 
 
 ---
 
-### Áreas de Especialización e Impacto Institucional
+<h2 style="color: #5C1198;">Áreas de Especialización e Impacto Institucional</h2>
 
 * **Investigación Cualitativa y Etnográfica:** Amplia experiencia en trabajo de campo, diagnósticos comunitarios participativos y análisis de discurso normativo e institucional.
 * **Derechos Humanos y Perspectiva de Género:** Diseño de políticas públicas, modelos de evaluación para Centros de Justicia para Mujeres (INACIPE) y análisis de violencias estructurales y feminicidio.
@@ -35,8 +34,8 @@ Su rigor académico fue reconocido en 2022 con el **Premio Arturo Warman** a la 
 
 ---
 
-### Executive Summary (English Version)
+<h2 id="english-version" style="color: #181198;">Executive Summary (English Version)</h2>
 
 **Dr. Rita M. Jiménez Sánchez** holds a Ph.D. and M.A. in Social Sciences (Rural Studies) from El Colegio de Michoacán and a B.A. in Intercultural Development and Management from UNAM. She was awarded the **2022 Arturo Warman Prize** for her doctoral research on indigenous identity politics.
 
-Her work bridges qualitative research, political anthropology, and public policy design. She specializes in gender equality, structural violence prevention, human rights, and intercultural justice. Currently, she collaborates as an External Research Collaborator with the **UCSB Labor Center** and engages in binational academic and institutional initiatives between Mexico and the United States.
+Her work bridges qualitative research, political anthropology, and public policy design. She specializes in gender equality, structural violence prevention, human rights, and intercultural justice. Currently, she collaborates as an External Research Collaborator with the **UCSB Labor Center** and engages in binational academic and institutional initiatives between Mexico and the United States.nal initiatives between Mexico and the United States.
