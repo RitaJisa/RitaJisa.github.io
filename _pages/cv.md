@@ -59,24 +59,25 @@ redirect_from:
 * <strong style="color: #6F57C7;">Curriculum Design & Institutional Capacity Building:</strong> Specialized program development for judicial, municipal, and academic bodies.
 * <strong style="color: #6F57C7;">Languages:</strong> Spanish (Native), English (University Certified - Professional Proficiency), French (Intermediate Certified).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+<h2 style="color: #5777C7; border-bottom: 2px solid #5777C7; padding-bottom: 5px; margin-top: 30px;">Additional Academic Sections</h2>
+
+<ul style="list-style-type: square; line-height: 1.8;">
+  <li>
+    <strong style="color: #6F57C7;">Talks & Presentations:</strong> 
+    <a href="/talks/" style="color: #A757C7; font-weight: bold;">View full list of keynotes, conference papers, and academic panels &rarr;</a>
+  </li>
+  <li>
+    <strong style="color: #6F57C7;">Teaching & Training:</strong> 
+    <a href="/teaching/" style="color: #A757C7; font-weight: bold;">Explore courses, judicial training, and specialized workshops &rarr;</a>
+  </li>
+  <li>
+    <strong style="color: #6F57C7;">Publications:</strong> 
+    <a href="/publications/" style="color: #A757C7; font-weight: bold;">Access books, monograph chapters, and technical reports &rarr;</a>
+  </li>
+  <li>
+    <strong style="color: #6F57C7;">Portfolio & Applied Projects:</strong> 
+    <a href="/portfolio/" style="color: #A757C7; font-weight: bold;">See digital tools, institutional evaluation models, and research software &rarr;</a>
+  </li>
+</ul>
