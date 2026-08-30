@@ -59,15 +59,15 @@ author:
 # Publication Category - The following is the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Libros y Monografías'
+    title: 'Books & Monographs'
   manuscripts:
-    title: 'Artículos en Revistas Arbitradas'
+    title: 'Journal Articles'
   chapters:
-    title: 'Capítulos de Libro'
+    title: 'Book Chapters'
   reports:
-    title: 'Informes Técnicos y Diagnósticos Institucionales'
+    title: 'Technical Reports & Policy Papers'
   conferences:
-    title: 'Ponencias y Conferencias Magistrales'
+    title: 'Conference Papers & Keynotes'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
